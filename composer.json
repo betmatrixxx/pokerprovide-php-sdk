@@ -2,7 +2,6 @@
   "name": "pokerprovide/sdk",
   "description": "Official PokerProvide Poker-as-a-Service SDK for PHP",
   "type": "library",
-  "version": "1.1.0",
   "license": "MIT",
   "require": { "php": ">=8.0", "ext-curl": "*", "ext-json": "*" },
   "autoload": { "psr-4": { "PokerProvide\\": "src/" } }
